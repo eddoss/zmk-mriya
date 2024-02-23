@@ -37,7 +37,7 @@
 &trans  &trans  &none    &none    &none      &none      &none     &kp HOME  &kp PAGE_DOWN  &kp PAGE_UP  &kp END         &none      &none    &kp DEL
         &trans  &kp DQT  &kp SQT  &kp GRAVE  &kp TILDE  &none     &kp LEFT  &kp DOWN       &kp UP       &kp RIGHT       &kp INS    &trans
         &trans  &none    &none    &none      &none      &none     &none     &kp MINUS      &kp PLUS     &kp UNDERSCORE  &kp EQUAL  &trans
-                         &none    &trans     &none      &trans    &trans    &none          &none        &none
+                         &none    &trans     &none      &trans    &trans    &none          &trans       &none
             >;
         };
 
@@ -47,7 +47,7 @@
 &none  &trans  &none                  &none              &none            &none             &none     &none   &kp K_VOL_DN  &kp K_VOL_UP  &none          &none         &none    &trans
        &trans  &kp LEFT_PARENTHESIS   &kp LEFT_BRACKET   &kp LEFT_BRACE   &kp LESS_THAN     &none     &none   &kp EXCL      &kp AT        &kp HASH       &kp DOLLAR    &trans
        &trans  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACKET  &kp RIGHT_BRACE  &kp GREATER_THAN  &none     &none   &kp PERCENT   &kp CARET     &kp AMPERSAND  &kp ASTERISK  &trans
-                                      &none              &none            &none             &none     &mo 3   &none         &none         &none
+                                      &none              &trans           &none             &none     &mo 3   &none         &trans        &none
             >;
         };
 
